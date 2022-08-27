@@ -1,5 +1,5 @@
 # Orbis-Throw-them-all!
-## Midterm project of Fundumental of Programming
+#### Midterm project of Fundumental of Programming
 
 Implementing a game from  Madness Game Studio
 
